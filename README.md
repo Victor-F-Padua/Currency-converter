@@ -73,24 +73,9 @@ currency-converter
 
 ---
 
-## How to Run the Project
+## test my website
 
-1. Clone the repository
-
-```bash
-git clone https://github.com/Victor-F-Padua/Conversor-de-Moeda.git
-```
-
-2. Open the project folder
-
-```bash
-cd currency-converter
-```
-
-3. Open `index.html` in your browser
-
----
-
+ online website:  https://victor-f-padua.github.io/Conversor-de-Moeda/
 
 ## Project Goal
 
