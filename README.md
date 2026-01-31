@@ -79,7 +79,7 @@ currency-converter
 
 ## 🌐 Live Demo
 
- 👉  https://victor-f-padua.github.io/Conversor-de-Moeda/
+ 👉  https://victor-f-padua.github.io/Currency-converter/
 
 ## Project Goal
 
